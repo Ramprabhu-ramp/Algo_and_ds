@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.assignment.QuicksortTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-10T15:44:18" hostname="Ramprabhus-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="test_single_out_of_order_element" classname="org.assignment.QuicksortTest" time="0.002"/>
+  <testcase name="test_array_with_identical_elements" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <testcase name="test_reverse_sorted_array" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <testcase name="test_single_element_array" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <testcase name="test_sorted_array" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <testcase name="test_array_with_duplicates" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <testcase name="test_empty_array" classname="org.assignment.QuicksortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
