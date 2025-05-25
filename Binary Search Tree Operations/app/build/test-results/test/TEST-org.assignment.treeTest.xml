@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.assignment.treeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-25T16:01:38" hostname="Ramprabhus-MacBook-Air.local" time="0.013">
+  <properties/>
+  <testcase name="testMax" classname="org.assignment.treeTest" time="0.009"/>
+  <testcase name="testMin" classname="org.assignment.treeTest" time="0.001"/>
+  <testcase name="testPostOrderSuccessor" classname="org.assignment.treeTest" time="0.0"/>
+  <testcase name="testPreOrderSuccessor" classname="org.assignment.treeTest" time="0.0"/>
+  <testcase name="testInOrderSuccessor" classname="org.assignment.treeTest" time="0.001"/>
+  <testcase name="testInOrderPredecessor" classname="org.assignment.treeTest" time="0.0"/>
+  <testcase name="testPreOrderPredecessor" classname="org.assignment.treeTest" time="0.0"/>
+  <testcase name="testPostOrderPredecessor" classname="org.assignment.treeTest" time="0.0"/>
+  <testcase name="testInsert" classname="org.assignment.treeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
